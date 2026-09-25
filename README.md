@@ -1,2 +1,3 @@
-# mill-ann
-Oficiální web F1 turnaje Mill-Ann 🏎️ | Výsledky, jezdci, pravidla, galerie a novinky.
+# Mill-Ann
+
+Oficiální web F1 eventu Mill-Ann.
