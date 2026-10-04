@@ -29,10 +29,11 @@ const NEWS = [
   {date:"STATISTIKY",title:"Aktuální pořadí jezdců",text:"Celkové pořadí je sestavené podle bodů evidovaných napříč odehranými závody.",image:""}
 ];
 
-const GALLERY = [];
+const GALLERY = [
   {image:"assets/gallery/1.jpg",title:"Autor: Sirasek"},
   {image:"assets/gallery/2.jpg",title:"Autor: Sirasek"},
   {image:"assets/gallery/3.jpg",title:"Autor: Sirasek"},
   {image:"assets/gallery/4.jpg",title:"Autor: Sirasek"},
   {image:"assets/gallery/5.jpg",title:"Autor: Sirasek"},
   {image:"assets/gallery/6.jpg",title:"Autor: Sirasek"} 
+];
