@@ -21,6 +21,7 @@ const WINNERS = [
   {event:"Mill-Ann #4",driver:"Wejty",note:"Vítěz čtvrtého Mill-Ann turnaje."},
   {event:"Mill-Ann #5",driver:"Garik",note:"Vítěz pátého Mill-Ann turnaje."},
   {event:"Mill-Ann #6",driver:"David",note:"Vítěz šestého Mill-Ann turnaje."}
+  {event:"Mill-Ann #7",driver:"Wejty",note:"Vítěz sedmého Mill-Ann turnaje."}
 ];
 
 const NEWS = [
